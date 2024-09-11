@@ -30,14 +30,14 @@ sh ./entrypoint.sh
 Переходим в сваггер
 http://localhost:8090/swagger/
 
-![img.png](img.png)
+![img.png](docs/images/img.png)
 
 ### Создание продукта через post запрос
 /products/
 
 ### Создание аренды:
 
-![img_1.png](img_1.png)
+![img_1.png](docs/images/img_1.png)
 
 Выбираем даты, id продукта, цена аренды и продолжительность аренды.
 
@@ -45,7 +45,7 @@ http://localhost:8090/swagger/
 ### Статистика:
 
 Выбираем даты 
-![img_3.png](img_3.png)
+![img_3.png](docs/images/img_3.png)
 
 Получаем свободные даты продуктов и общее количество суммы аренды.
 
